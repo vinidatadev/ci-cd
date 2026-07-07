@@ -4,4 +4,4 @@ order_id,customer_id,product,quantity,unit_price,order_date
 1003,C03,Teclado,1,200.00,2024-01-12
 1002,C02,Mouse,1,80.00,2024-01-11
 1005,C04,Monitor,,950.00,2024-01-13
-1006,C05,Headset,2,350.00,2024-01-14
+1006,C05,Headset,2,350.00,2024-01-15
